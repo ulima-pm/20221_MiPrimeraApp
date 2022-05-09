@@ -8,6 +8,7 @@
     tools:context=".MenuActivity">
 
     <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fcvFragments"
         android:layout_weight="7"
         android:layout_width="match_parent"
         android:layout_height="0dp" />
